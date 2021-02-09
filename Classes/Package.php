@@ -14,7 +14,6 @@ namespace Flownative\Neos\CustomDocumentUriRouting;
 use Neos\ContentRepository\Domain\Model\Node;
 use Neos\ContentRepository\Domain\Model\NodeInterface;
 use Neos\ContentRepository\Domain\Utility\NodePaths;
-use Neos\Eel\FlowQuery\FlowQuery;
 use Neos\Flow\Configuration\ConfigurationManager;
 use Neos\Flow\Core\Bootstrap;
 use Neos\Flow\Package\Package as BasePackage;
